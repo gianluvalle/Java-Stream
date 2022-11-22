@@ -1,0 +1,36 @@
+Scrivere un programma che consensta di gestire prodotti ed ordini di un negozio.
+
+IMPORTANTE!
+Leggere TUTTI gli esercizi per farsi un'idea delle entità in campo (Quali classi, interfacce etc...)
+
+
+
+Esercizio 1 — Ottieni una lista di prodotti appartenente alla categoria "Libri" con prezzo maggiore di 100 euro
+
+Esercizio 2 - Ottieni una lista di ordini con prodotti che appartiene alla categoria "Neonati"
+
+Esercizio 3 - Ottieni una lista di prodotti con categoria "Giocattoli" e poi applica il 10% di sconto
+
+Esercizio 4 - Ottieni una lista di prodotti ordinati da clienti di tipo "Premium" (i tipi a disposizione sono "Base", "Premium", "VIP") tra il 01/02/21 ed il 01/04/21
+
+Esercizio 5 - Ottieni il prodotto più economico della categoria "Libri"
+
+Esercizio 6 - Ottieni gli ultimi 3 ordini effettuati
+
+Esercizio 7 - Calcola la somma totale di tutti gli ordini effettuati a Febbraio 2021
+
+Esercizio 8 - Calcola il pagamento medio degli ordini piazzati il 14/03/21
+
+Esercizio 9 - Ottieni un insieme di statistiche riassuntive per tutti i prodotti di categoria "Libri" (utilizza il metodo summaryStatistics() e la classe SummaryStatistics)
+
+Esercizio 10 - Ottieni una Map con chiave id ordine e valore conteggio dei prodotti nell'ordine
+
+Esercizio 11 - Ottieni una Map con le liste degli ordini raggruppate per cliente
+
+Esercizio 12 - Ottieni una mappa con le somme dei prodotti, raggruppate per ordine
+
+Esercizio 13 - Ottieni una mappa con le liste di prodotti, raggruppate per nome della categoria
+
+Esercizio 14 - Ottieni il prodotto più costoso per categoria
+
+
